@@ -1,0 +1,48 @@
+_repo: Electric-railways_75289
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Trow, Harris C.
+    birthdate: 1876
+    deathdate: 1938
+    gutenberg_agent_id: '57923'
+    url: http://www.gutenberg.org/2009/agents/57923
+creator:
+  authors:
+  - agent_name: American School of Correspondence
+    aliases:
+    - Armour Institute of Technology. American School of Correspondence
+    - American School at Armour Institute of Technology
+    gutenberg_agent_id: '6164'
+    url: http://www.gutenberg.org/2009/agents/6164
+    wikipedia: https://en.wikipedia.org/wiki/American_School_of_Correspondence
+  - agent_name: Cravath, James Raley
+    alias: Cravath, James R.
+    birthdate: 1872
+    deathdate: 1962
+    gutenberg_agent_id: '57922'
+    url: http://www.gutenberg.org/2009/agents/57922
+description: ''
+gutenberg_issued: '2025-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75289'
+language: en
+pgterms:marc904: https://archive.org/details/electricrailways00amer
+pgterms:marc905: 20230830102800cravath
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: deaurider, Robert Tonsing, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aChicago :$bAmerican School of Correspondence, $c1907, pubdate
+  1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electric railroads'
+- !lcc 'TF'
+- GITenberg
+title: Electric railways
+url: http://www.gutenberg.org/ebooks/75289
